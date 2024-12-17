@@ -1,0 +1,18 @@
+type: marketplace
+title: LearningCoursePOO
+language: Spanish
+summary: "Este curso esta desarrollado por docentes del IES La Vereda de la Pobla\
+  \ de Vallbona, para el 2º trimestre de los alumnos de los CFGS de DAM y DAW."
+programming_language: Java
+content:
+  - POO Introduccion
+  - POO Avanzada
+  - Estructuras dinamicas
+  - Streams. Programacion funcional
+  - Ficheros y Excepciones
+  - Conclusiones
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_9
+vendor:
+  name: xavier rosillo guerrero

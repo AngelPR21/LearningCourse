@@ -1,0 +1,20 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: false
+    learner_created: false
+  - name: src/Persona.java
+    visible: true
+    learner_created: false
+  - name: src/Empleado.java
+    visible: true
+    learner_created: false
+  - name: src/Programador.java
+    visible: true
+    learner_created: false
+  - name: src/Cliente.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

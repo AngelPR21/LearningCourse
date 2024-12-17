@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":POO_Introduccion-lesson2-Un_caso_practico._Coordinate" external.linked.project.path="$MODULE_DIR$/../../../../../POO Introduccion/lesson2/Un caso practico. Coordinate" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="LearningCoursePOO" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson2/Un caso practico. Coordinate">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson2/Un caso practico. Coordinate/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson2/Un caso practico. Coordinate/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson2/Un caso practico. Coordinate/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

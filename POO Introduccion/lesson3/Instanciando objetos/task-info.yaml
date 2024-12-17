@@ -1,0 +1,22 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 122
+        length: 14
+        placeholder_text: /* Create a size 5 board */
+        initial_state:
+          length: 27
+          offset: 120
+        initialized_from_dependency: false
+        encrypted_possible_answer: BkQ05Z0D+3mQsD4zKob/vw==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: src/Board.java
+    visible: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

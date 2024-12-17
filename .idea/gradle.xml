@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Conclusiones/lessonFinal/Un ejemplo practico. El juego" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson10/Creando nuestra Lista" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson10/Estructuras dinamicas" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson11/Interfaces" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson11/Un caso practico" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson12/Colecciones" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson12/List" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson12/Un caso practico. List" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson13/Set" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson13/Un caso practico. Set" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson14/Map" />
+            <option value="$PROJECT_DIR$/Estructuras dinamicas/lesson14/Un caso practico. Map" />
+            <option value="$PROJECT_DIR$/POO Avanzada/lesson8/Herencia" />
+            <option value="$PROJECT_DIR$/POO Avanzada/lesson8/Un caso practico. Añadiendo metodos" />
+            <option value="$PROJECT_DIR$/POO Avanzada/lesson8/Un caso practico. Herencia" />
+            <option value="$PROJECT_DIR$/POO Avanzada/lesson9/Clases Abstractas" />
+            <option value="$PROJECT_DIR$/POO Avanzada/lesson9/Un caso practico. Abstract Class" />
+            <option value="$PROJECT_DIR$/POO Avanzada/lesson9/Un caso practico. Moviendo fichas" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson1/Presentacion" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson2/Clases y Objetos" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson2/Un caso practico. Coordinate" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson3/Instanciando objetos" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson3/Un caso practico. Piece" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson4/Equals" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson4/Un caso practico. Comparando Coordinate" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson4/Un caso practico. Getters Setters Coordinate" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson4/Un caso practico. Metodos funcionales Coordinate" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson5/Enum" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson5/Un caso practico. Cell" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson5/Un caso practico. Piece" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson6/Librerias externas. JColor" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson6/Un caso practico. Board" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson6/Un caso practico. Cell" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson6/Un caso practico. Piece" />
+            <option value="$PROJECT_DIR$/POO Introduccion/lesson7/Static" />
+            <option value="$PROJECT_DIR$/Streams. Programacion funcional/lesson15/Streams" />
+            <option value="$PROJECT_DIR$/Streams. Programacion funcional/lesson15/Un ejemplo practico. Stream" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

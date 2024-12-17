@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":POO_Introduccion-lesson5-Un_caso_practico._Piece:test" external.linked.project.path="$MODULE_DIR$/../../../../../POO Introduccion/lesson5/Un caso practico. Piece" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="LearningCoursePOO" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson5/Un caso practico. Piece/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson5/Un caso practico. Piece/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson5/Un caso practico. Piece/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../POO Introduccion/lesson5/Un caso practico. Piece/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="LearningCoursePOO.POO_Introduccion-lesson5-Un_caso_practico._Piece.main" />
+    <orderEntry type="module" module-name="LearningCoursePOO.util.main" />
+    <orderEntry type="module" module-name="LearningCoursePOO.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: com.diogonunes:JColor:5.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="LearningCoursePOO.POO_Introduccion-lesson5-Un_caso_practico._Piece.main" />
+</module>

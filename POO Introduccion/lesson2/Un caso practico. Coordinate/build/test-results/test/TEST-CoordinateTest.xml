@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoordinateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-04T17:15:57" hostname="lmde5" time="0.004">
+  <properties/>
+  <testcase name="testConstructorParametrizedCreated" classname="CoordinateTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

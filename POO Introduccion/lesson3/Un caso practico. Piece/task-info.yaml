@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/Piece.java
+    visible: true
+    learner_created: false
+  - name: test/PieceTests.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 04 Dec 2024 17:25:13 UTC"
+record: -1

@@ -1,0 +1,28 @@
+type: edu
+files:
+  - name: src/Cell.java
+    visible: true
+    learner_created: false
+  - name: src/Piece.java
+    visible: true
+    learner_created: false
+  - name: src/Coordinate.java
+    visible: true
+    learner_created: false
+  - name: src/Board.java
+    visible: true
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/CellTests.java
+    visible: false
+    learner_created: false
+  - name: test/CellColorTests.java
+    visible: false
+    learner_created: false
+  - name: test/PieceTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

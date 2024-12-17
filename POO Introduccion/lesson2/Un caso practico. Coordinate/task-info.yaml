@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/Coordinate.java
+    visible: true
+    learner_created: false
+  - name: test/CoordinateTest.java
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 04 Dec 2024 17:15:57 UTC"
+record: -1

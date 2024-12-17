@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/DeletedPieceManagerImp.java
+    visible: true
+    learner_created: false
+  - name: src/IDeletedPieceManager.java
+    visible: true
+    learner_created: false
+  - name: src/Piece.java
+    visible: true
+    learner_created: false
+  - name: src/Cell.java
+    visible: false
+    learner_created: false
+  - name: src/Coordinate.java
+    visible: false
+    learner_created: false
+  - name: src/Board.java
+    visible: false
+    learner_created: false
+  - name: test/DeletedPieceManagerImpTest.java
+    visible: false
+    learner_created: false
+  - name: test/IDeletedPieceManagerTest.java
+    visible: false
+    learner_created: false
+  - name: src/Pawn.java
+    visible: false
+    learner_created: false
+  - name: src/MyList.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

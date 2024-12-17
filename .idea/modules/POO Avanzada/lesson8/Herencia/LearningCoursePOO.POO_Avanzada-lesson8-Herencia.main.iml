@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":POO_Avanzada-lesson8-Herencia:main" external.linked.project.path="$MODULE_DIR$/../../../../../POO Avanzada/lesson8/Herencia" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="LearningCoursePOO" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../POO Avanzada/lesson8/Herencia/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../POO Avanzada/lesson8/Herencia/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../POO Avanzada/lesson8/Herencia/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="LearningCoursePOO.util.main" />
+    <orderEntry type="library" name="Gradle: com.diogonunes:JColor:5.5.1" level="project" />
+  </component>
+</module>

@@ -1,0 +1,67 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+  - name: src/Cell.java
+    visible: true
+    learner_created: false
+  - name: src/Pawn.java
+    visible: true
+    learner_created: false
+  - name: src/Piece.java
+    visible: true
+    learner_created: false
+  - name: src/Rook.java
+    visible: true
+    learner_created: false
+  - name: src/King.java
+    visible: true
+    learner_created: false
+  - name: src/Tool.java
+    visible: true
+    learner_created: false
+  - name: src/Coordinate.java
+    visible: true
+    learner_created: false
+  - name: src/Bishop.java
+    visible: true
+    learner_created: false
+  - name: src/Knight.java
+    visible: true
+    learner_created: false
+  - name: src/Queen.java
+    visible: true
+    learner_created: false
+  - name: src/Board.java
+    visible: true
+    learner_created: false
+  - name: test/BlackPawnTest.java
+    visible: false
+    learner_created: false
+  - name: test/RookTest.java
+    visible: false
+    learner_created: false
+  - name: test/PieceTest.java
+    visible: false
+    learner_created: false
+  - name: test/QueenTest.java
+    visible: false
+    learner_created: false
+  - name: test/BishopTest.java
+    visible: false
+    learner_created: false
+  - name: test/KnightTest.java
+    visible: false
+    learner_created: false
+  - name: test/ToolTest.java
+    visible: false
+    learner_created: false
+  - name: test/KingTest.java
+    visible: false
+    learner_created: false
+  - name: test/WhitePawnTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
